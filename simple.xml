@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+	<movie>
+		<name>Dark Knight</name>
+		<director>Christopher Nolan</director>
+        <image>dark knight.jpg</image>
+        <rating>9.0/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/The_Dark_Knight_(film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>94%</rt>
+        <desc>Christopher Nolan steps back into the director's chair for this sequel to Batman Begins, which finds the titular superhero coming face to face with his greatest nemesis -- the dreaded Joker. Christian Bale returns to the role of Batman, Maggie Gyllenhaal takes over the role of Rachel Dawes (played by Katie Holmes in Batman Begins), and Brokeback Mountain star Heath Ledger dons the ghoulishly gleeful Joker makeup previously worn by Jack Nicholson and Cesar Romero. Just as it begins to appear as if Batman, Lt. James Gordon (Gary Oldman), and District Attorney Harvey Dent (Aaron Eckhart) are making headway in their tireless battle against the criminal element, a maniacal, wisecracking fiend plunges the streets of Gotham City into complete chaos. ~ Jason Buchanan, Rovi</desc>
+     </movie>
+    <movie>
+        <name>Your Name</name>
+        <director>Makoto Shinkai</director>
+        <image>your-name.jpg</image>
+        <rating>8.5/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Your_Name</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>97%</rt>
+        <desc>From director Makoto Shinkai, the innovative mind behind Voices of a Distant Star and 5 Centimeters Per Second, comes a beautiful masterpiece about time, the thread of fate, and the hearts of two young souls. The day the stars fell, two lives changed forever. High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki's body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other. Yet, somehow, it works. They build a connection and communicate by leaving notes, messages, and more importantly, an imprint. When a dazzling comet lights up the night's sky, something shifts, and they seek each other out wanting something more-a chance to finally meet. But try as they might, something more daunting than distance prevents them. Is the string of fate between Mitsuha and Taki strong enough to bring them together, or will forces outside their control leave them forever separated?</desc>
+    </movie>
+    <movie>
+        <name>Deadpool</name>
+        <director>Tim Miller</director>
+        <image>deadpool.jpg</image>
+        <rating>8.0/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Deadpool_(film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>92%</rt>
+        <desc>Based upon Marvel Comics' most unconventional anti-hero, DEADPOOL tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life. (C) Fox</desc>
+    </movie>
+    <movie>
+        <name>Dunkirk</name>
+        <director>Christopher Nolan</director>
+        <image>dunkirk.jpg</image>
+        <rating>8.0/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Dunkirk_(2017_film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>93%</rt>
+        <desc>Acclaimed auteur Christopher Nolan directs this World War II thriller about the evacuation of Allied troops from the French city of Dunkirk before Nazi forces can take hold. Tom Hardy, Kenneth Branagh and Mark Rylance co-star, with longtime Nolan collaborator Hans Zimmer providing the score.</desc>
+    </movie>
+    <movie>
+        <name>Inception</name>
+        <director>Christopher Nolan</director>
+        <image>inception.jpg</image>
+        <rating>8.8/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Inception</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>86%</rt>
+        <desc>Visionary filmmaker Christopher Nolan (Memento, The Dark Knight) writes and directs this psychological sci-fi action film about a thief who possesses the power to enter into the dreams of others. Dom Cobb (Leonardo DiCaprio) doesn't steal things, he steals ideas. By projecting himself deep into the subconscious of his targets, he can glean information that even the best computer hackers can't get to. In the world of corporate espionage, Cobb is the ultimate weapon. But even weapons have their weakness, and when Cobb loses everything, he's forced to embark on one final mission in a desperate quest for redemption. This time, Cobb won't be harvesting an idea, but sowing one. Should he and his team of specialists succeed, they will have discovered a new frontier in the art of psychic espionage. They've planned everything to perfection, and they have all the tools to get the job done. Their mission is complicated, however, by the sudden appearance of a malevolent foe that seems to know exactly what they're up to, and precisely how to stop them. ~ Jason Buchanan, Rovi</desc>
+    </movie>
+    <movie>
+        <name>Inside Out</name>
+        <director>Pete Docter</director>
+        <image>inside-out.jpg</image>
+        <rating>8.2/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Inside_Out_(2015_film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>98%</rt>
+        <desc>Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy (Amy Poehler), Fear (Bill Hader), Anger (Lewis Black), Disgust (Mindy Kaling) and Sadness (Phyllis Smith). The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school. -- (C) Pixar</desc>
+    </movie>
+    <movie>
+        <name>Iron Man</name>
+        <director>Jon Favreau</director>
+        <image>iron-man.jpg</image>
+        <rating>7.9/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Iron_Man_(2008_film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>94%</rt>
+        <desc>Billionaire industrialist and genius inventor Tony Stark is kidnapped and forced to build a devastating weapon. Instead, using his intelligence and ingenuity, Tony builds a high-tech suit of armor and escapes captivity. When he uncovers a nefarious plot with global implications, he dons his powerful armor and vows to protect the world as Iron Man.</desc>
+    </movie>
+    <movie>
+        <name>Memento</name>
+        <director>Christopher Nolan</director>
+        <image>memento.jpg</image>
+        <rating>8.5/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Memento_(film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>92%</rt>
+        <desc>A man is determined to find justice after the loss of a loved one, even though he is incapable of fully remembering the crime, in this offbeat thriller. Leonard (Guy Pearce) is a man who is struggling to put his life back together after the brutal rape and murder of his wife. But Leonard's problems are different from those of most people in his situation; he was beaten severely by the same man who killed his wife. The most significant manifestation of Leonard's injuries is that his short-term memory has been destroyed; he is incapable of retaining any new information, and must resort to copious note-taking and Polaroid photographs in order to keep track of what happens to him over the course of a day (he's even tattooed himself with a few crucial bits of information he can't get along without). Leonard retains awareness that his wife was brutally murdered, however, and he's convinced that the culprit still walks the streets. Leonard is obsessed with the notion of taking revenge against the man who has ruined his life, and he sets out to find him, getting help from Natalie (Carrie-Anne Moss), who appears to be a sympathetic barmaid, and Teddy (Joe Pantoliano), who claims to be Leonard's friend, even though Leonard senses that he cannot be trusted. Writer/director Christopher Nolan adapted Memento from a short story by his brother Jonathan Nolan. ~ Mark Deming, Rovi</desc>
+    </movie>
+    <movie>
+        <name>Ratatouille</name>
+        <director>Brad Bird</director>
+        <image>ratatouille.jpg</image>
+        <rating>8.0/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Ratatouille_(film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>96%</rt>
+        <desc>In the hilarious new animated-adventure, Ratatouille, a rat named Remy dreams of becoming a great chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the city of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau. Despite the apparent dangers of being an unwanted visitor in the kitchen at one of Paris' most exclusive restaurants, Remy forms an unlikely partnership with Linguini, the garbage boy, who inadvertently discovers Remy's amazing talents. They strike a deal, ultimately setting into motion a hilarious and exciting chain of extraordinary events that turns the culinary world of Paris upside down. Remy finds himself torn between following his dreams or returning forever to his previous existence as a rat. He learns the truth about friendship, family and having no choice but to be who he really is, a rat who wants to be a chef.</desc>
+    </movie>
+    <movie>
+        <name>Spiderman 2</name>
+        <director>Sami Rami</director>
+        <image>spider-man-2.jpg</image>
+        <rating>7.3/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Spider-Man_2</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>96%</rt>
+        <desc>Stan Lee's all-too-human superhero returns to the screen in this highly anticipated sequel to 2002's blockbuster hit Spider-Man. Peter Parker (Tobey Maguire) is attempting to juggle college classes and his job as a photographer with the Daily Bugle while maintaining his secret life as costumed crime-fighter Spider-Man. Parker is also struggling to hold on to his relationship with Mary Jane Watson (Kirsten Dunst), who is beginning to enjoy success as a model and actress, and both Mary Jane and Peter have noticed he's beginning to buckle under the strain. Parker's friendship with Harry Osborn (James Franco) is also beginning to fray due to Peter's seeming alliance with Spider-Man, whom Harry blames for the death of his father, the nefarious Norman Osborn. As Parker weighs his responsibilities to himself and those around him against the obligations that come with his special powers, Spider-Man is faced with a new nemesis -- Dr. Otto Octavius (Alfred Molina), a deranged scientist whose latest project has turned him into the near-invincible cyborg Doctor Octopus. Spider-Man 2 was directed by Sam Raimi, who helmed the first film, and much of the original cast has also reunited for this sequel, including Rosemary Harris, J.K. Simmons, and Bruce Campbell. ~ Mark Deming, Rovi</desc>
+    </movie>
+    <movie>
+        <name>Star Wars</name>
+        <director>Rian Johnson</director>
+        <image>star-wars.jpg</image>
+        <rating>7.5/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>90%</rt>
+        <desc>In Lucasfilm's Star Wars: The Last Jedi, the Skywalker saga continues as the heroes of The Force Awakens join the galactic legends in an epic adventure that unlocks age-old mysteries of the Force and shocking revelations of the past.</desc>
+    </movie>
+    <movie>
+        <name>Godfather</name>
+        <director>Francis Coppola</director>
+        <image>the-godfather.jpg</image>
+        <rating>9.2/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/The_Godfather</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>98%</rt>
+        <desc>Popularly viewed as one of the best American films ever made, the multi-generational crime saga The Godfather is a touchstone of cinema: one of the most widely imitated, quoted, and lampooned movies of all time. Marlon Brando and Al Pacino star as Vito Corleone and his youngest son, Michael, respectively. It is the late 1940s in New York and Corleone is, in the parlance of organized crime, a "godfather" or "don," the head of a Mafia family. Michael, a free thinker who defied his father by enlisting in the Marines to fight in World War II, has returned a captain and a war hero. Having long ago rejected the family business, Michael shows up at the wedding of his sister, Connie (Talia Shire), with his non-Italian girlfriend, Kay (Diane Keaton), who learns for the first time about the family "business." A few months later at Christmas time, the don barely survives being shot by gunmen in the employ of a drug-trafficking rival whose request for aid from the Corleones' political connections was rejected. After saving his father from a second assassination attempt, Michael persuades his hotheaded eldest brother, Sonny (James Caan), and family advisors Tom Hagen (Robert Duvall) and Sal Tessio (Abe Vigoda) that he should be the one to exact revenge on the men responsible. After murdering a corrupt police captain and the drug trafficker, Michael hides out in Sicily while a gang war erupts at home. Falling in love with a local girl, Michael marries her, but she is later slain by Corleone enemies in an attempt on Michael's life. Sonny is also butchered, having been betrayed by Connie's husband. As Michael returns home and convinces Kay to marry him, his father recovers and makes peace with his rivals, realizing that another powerful don was pulling the strings behind the narcotics endeavor that began the gang warfare. Once Michael has been groomed as the new don, he leads the family to a new era of prosperity, then launches a campaign of murderous revenge against those who once tried to wipe out the Corleones, consolidating his family's power and completing his own moral downfall. Nominated for 11 Academy Awards and winning for Best Picture, Best Actor (Marlon Brando), and Best Adapted Screenplay, The Godfather was followed by a pair of sequels. ~ Karl Williams, Rovi</desc>
+    </movie>
+    <movie>
+        <name>Up</name>
+        <director>Pete Docter</director>
+        <image>up.jpg</image>
+        <rating>8.3/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Up_(2009_film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>98%</rt>
+        <desc>A feisty septuagenarian teams with a fearless wilderness ranger to do battle with a vicious band of beasts and villains in this computer-animated adventure scripted by Pixar veteran Bob Peterson and co-directed by Peterson and Monsters, Inc. director Peter Docter. Carl Fredricksen is a 78-year-old balloon salesman. His entire life, Carl has longed to wander the wilds of South America. Then, one day, the irascible senior citizen shocks his neighbors by tying thousands of balloons to his home and finally taking flight. But Carl isn't alone on his once-in-a-lifetime journey, because stowed away on his front porch is an excitable eight-year-old wilderness explorer named Russell. Later, as the house touches down on the world's second largest continent, Carl and his unlikely traveling companion step outside to discover that not only is their new front lawn considerably larger, but that the predators therein are much more ferocious than anything they ever faced back home.</desc>
+    </movie>
+    <movie>
+        <name>Coco</name>
+        <director>Lee Unkrich</director>
+        <image>coco.jpg</image>
+        <rating>8.6/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Ratatouille_(film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>97%</rt>
+        <desc>Despite his family's baffling generations-old ban on music, Miguel (voice of newcomer Anthony Gonzalez) dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz (voice of Benjamin Bratt). Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector (voice of Gael GarcÌa Bernal), and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.</desc>
+    </movie>
+    <movie>
+        <name>Doctor Strange</name>
+        <director>Scott Derrickson</director>
+        <image>doctor-strange.jpg</image>
+        <rating>7.5/10</rating>
+        <weburl>https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)</weburl>
+        <ilogo>ilogo.png</ilogo>
+        <rlogo>rlogo.png</rlogo>
+        <rt>90%</rt>
+        <desc>A disgraced former surgeon named Stephen Strange (Benedict Cumberbatch) becomes a powerful sorcerer under the tutelage of a mystic known as the Ancient One (Tilda Swinton). Rachel McAdams, Mads Mikkelsen, and Chiwetel Ejiofor co-star in this entry in the Marvel Cinematic Universe. Directed by Scott Derrickson (Sinister).</desc>
+    </movie>
+
+</movies>
+
+
+
+
