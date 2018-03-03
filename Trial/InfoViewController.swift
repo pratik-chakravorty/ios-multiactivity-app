@@ -33,6 +33,17 @@ class InfoViewController: UIViewController {
             content.text = movieData[myIndex].desc
             movieLabel.font = UIFont.boldSystemFont(ofSize: 50)
         }
+        
+        content.layer.borderWidth = 2
+        content.backgroundColor = UIColor.white
+        content.layer.cornerRadius = 10
+        
+        let style = NSMutableParagraphStyle()
+        style.lineSpacing = 20
+        let attributes = [NSAttributedStringKey.paragraphStyle : style]
+        content.attributedText = NSAttributedString(string: content.text, attributes: attributes)
+        content.font = UIFont.systemFont(ofSize: 18)
+        
         webBtn.backgroundColor = UIColor.white
         
         webBtn.layer.cornerRadius = 10
