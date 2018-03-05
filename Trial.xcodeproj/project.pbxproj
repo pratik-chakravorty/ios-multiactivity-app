@@ -11,6 +11,7 @@
 		1C06816420482DC60084D6D2 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C06816320482DC60084D6D2 /* WebViewController.swift */; };
 		1C068167204837A70084D6D2 /* rlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C068165204837A70084D6D2 /* rlogo.png */; };
 		1C068168204837A70084D6D2 /* ilogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C068166204837A70084D6D2 /* ilogo.png */; };
+		1C0CE84C204DB014003F3416 /* john-wick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C0CE84B204DB014003F3416 /* john-wick.jpg */; };
 		1C1E7D22204B17BE004B16D6 /* gradient.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C1E7D21204B17BE004B16D6 /* gradient.jpg */; };
 		1C63C89020476CBF00DF36EA /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C63C88F20476CBF00DF36EA /* TableViewController.swift */; };
 		1C63C89220476D0200DF36EA /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C63C89120476D0200DF36EA /* Movie.swift */; };
@@ -48,6 +49,7 @@
 		1C06816320482DC60084D6D2 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		1C068165204837A70084D6D2 /* rlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rlogo.png; path = ../../rlogo.png; sourceTree = "<group>"; };
 		1C068166204837A70084D6D2 /* ilogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ilogo.png; path = ../../ilogo.png; sourceTree = "<group>"; };
+		1C0CE84B204DB014003F3416 /* john-wick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "john-wick.jpg"; sourceTree = "<group>"; };
 		1C1E7D21204B17BE004B16D6 /* gradient.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gradient.jpg; path = ../../../Downloads/gradient.jpg; sourceTree = "<group>"; };
 		1C63C88F20476CBF00DF36EA /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		1C63C89120476D0200DF36EA /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				1C6A941F2049CC5F00D311D4 /* inception.jpg */,
 				1C6A94182049CC5F00D311D4 /* doctor-strange.jpg */,
 				1C6A941C2049CC5F00D311D4 /* inside-out.jpg */,
+				1C0CE84B204DB014003F3416 /* john-wick.jpg */,
 				1C6A94172049CC5F00D311D4 /* iron-man.jpg */,
 				1C6A94192049CC5F00D311D4 /* memento.jpg */,
 				1C6A94132049CC5E00D311D4 /* deadpool.jpg */,
@@ -231,6 +234,7 @@
 				1C6A94312049CC5F00D311D4 /* inception.jpg in Resources */,
 				1C1E7D22204B17BE004B16D6 /* gradient.jpg in Resources */,
 				1C6A94322049CC5F00D311D4 /* ratatouille.jpg in Resources */,
+				1C0CE84C204DB014003F3416 /* john-wick.jpg in Resources */,
 				1C7B894F2049D24700A806C3 /* simple.xml in Resources */,
 				1C6A94262049CC5F00D311D4 /* predestination.jpg in Resources */,
 				1C6A942E2049CC5F00D311D4 /* inside-out.jpg in Resources */,
